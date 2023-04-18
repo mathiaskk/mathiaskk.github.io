@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmathiaskk_github_io=self.webpackChunkmathiaskk_github_io||[]).push([[8184],{1936:a=>{a.exports=JSON.parse('{"label":"facebook","permalink":"/mathiaskk.github.io/blog/tags/facebook","allTagsPath":"/mathiaskk.github.io/blog/tags","count":1}')}}]);

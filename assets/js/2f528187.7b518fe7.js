@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmathiaskk_github_io=self.webpackChunkmathiaskk_github_io||[]).push([[7355],{6036:a=>{a.exports=JSON.parse('{"label":"docusaurus","permalink":"/mathiaskk.github.io/blog/tags/docusaurus","allTagsPath":"/mathiaskk.github.io/blog/tags","count":4}')}}]);

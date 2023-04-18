@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkmathiaskk_github_io=self.webpackChunkmathiaskk_github_io||[]).push([[9473],{309:a=>{a.exports=JSON.parse('{"label":"hello","permalink":"/mathiaskk.github.io/blog/tags/hello","allTagsPath":"/mathiaskk.github.io/blog/tags","count":2}')}}]);
